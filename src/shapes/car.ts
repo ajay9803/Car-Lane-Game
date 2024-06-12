@@ -2,7 +2,6 @@ import Point from "./point";
 import { ctx, gameOver } from "../main";
 import dimensions, { playerMovementSpeed } from "../constants";
 import { Positions } from "../enums/position";
-import { moveMessagePortToContext } from "worker_threads";
 
 export interface ICar {
   point: Point;

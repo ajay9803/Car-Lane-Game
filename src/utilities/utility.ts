@@ -1,9 +1,9 @@
 // import enemy-assets
-import enemyCar from "../assets/enemy-car.png";
-import enemyCar1 from "../assets/enemy-car-1.png";
-import enemyCar2 from "../assets/enemy-car-2.png";
-import enemyCar3 from "../assets/enemy-car-3.png";
-import enemyCar4 from "../assets/enemy-car-4.png";
+import enemyCar from "../assets/sprites/enemy-car.png";
+import enemyCar1 from "../assets/sprites/enemy-car-1.png";
+import enemyCar2 from "../assets/sprites/enemy-car-2.png";
+import enemyCar3 from "../assets/sprites/enemy-car-3.png";
+import enemyCar4 from "../assets/sprites/enemy-car-4.png";
 
 // random number generator
 
